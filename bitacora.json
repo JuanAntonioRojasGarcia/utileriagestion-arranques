@@ -1,0 +1,26 @@
+{
+  "id": 0,
+  "proceso": {
+    "id": 30,
+    "nombre": "ARRANQUE_CARTERAS_CREDITO",
+    "descripcion": "Proceso de arranques por parte de carteras a los telefonos de credito",
+    "activo": 0,
+    "frecuencia": 0
+  },
+  "fechaCorte": "1970-01-01",
+  "numeroEjecucion": 0,
+  "estado": 0,
+  "fechaInicio": "1969-12-31T23:00:00.000-0700",
+  "fechaFin": "1970-01-01T00:00:00.000-0700",
+  "detalle": [
+    {
+      "corte": "2024-05-10",
+      "orden": 1,
+      "fecha": "2024-05-10T00:00:00.000-0700",
+      "descripcion": "Ejecutando el Procedimiento proc_telefonos_arranque01",
+      "estado": "EJECUCION",
+      "ejecucion": 1,
+      "proceso": "ARRANQUE_CARTERAS_CREDITO"
+    }
+  ]
+}
